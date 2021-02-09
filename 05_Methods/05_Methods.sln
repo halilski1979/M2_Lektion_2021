@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.LiceTriagalnik", "06.Lic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Stepen", "07. Stepen\07. Stepen.csproj", "{F0C86761-9F6A-4B32-BC53-848A786C0DDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.GetMaxValue", "08.GetMaxValue\08.GetMaxValue.csproj", "{B83D4C49-B5B5-4592-A7E4-2AA6FB9E0A10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{208632F0-7B01-42E4-87AC-4F97B49DDF9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{F0C86761-9F6A-4B32-BC53-848A786C0DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0C86761-9F6A-4B32-BC53-848A786C0DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0C86761-9F6A-4B32-BC53-848A786C0DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B83D4C49-B5B5-4592-A7E4-2AA6FB9E0A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B83D4C49-B5B5-4592-A7E4-2AA6FB9E0A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B83D4C49-B5B5-4592-A7E4-2AA6FB9E0A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B83D4C49-B5B5-4592-A7E4-2AA6FB9E0A10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{208632F0-7B01-42E4-87AC-4F97B49DDF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{208632F0-7B01-42E4-87AC-4F97B49DDF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{208632F0-7B01-42E4-87AC-4F97B49DDF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{208632F0-7B01-42E4-87AC-4F97B49DDF9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
