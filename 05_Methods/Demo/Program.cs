@@ -11,17 +11,12 @@ namespace Demo
         static void Main(string[] args)
         {
 
-            string first = Console.ReadLine();
-            string second = Console.ReadLine();
-            //string max = GetMax(first, second);
-            //Console.WriteLine(max);
-            if (first.CompareTo(second) >= 0)
+            string str = new String(new char[] { 's', 't', 'r','a','A','!' });
+            Console.WriteLine(str);
+
+            for (int i = 0; i < str.Length; i++)
             {
-                Console.WriteLine(first); 
-            }
-            else
-            {
-                Console.WriteLine(first);
+                Console.Write(str[i] + " ");
             }
         }
     }
