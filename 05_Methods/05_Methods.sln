@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EmptyBelejka", "01.Empty
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ZnakCqloChislo", "02.ZnakCqloChislo\02.ZnakCqloChislo.csproj", "{D91859A6-3741-4BB6-BE31-ADBEF90D0879}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PrintFigura", "04.PrintFigura\04.PrintFigura.csproj", "{68E6D01A-463C-404B-AE35-A9E9DE1FA766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D91859A6-3741-4BB6-BE31-ADBEF90D0879}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D91859A6-3741-4BB6-BE31-ADBEF90D0879}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D91859A6-3741-4BB6-BE31-ADBEF90D0879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E6D01A-463C-404B-AE35-A9E9DE1FA766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E6D01A-463C-404B-AE35-A9E9DE1FA766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E6D01A-463C-404B-AE35-A9E9DE1FA766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E6D01A-463C-404B-AE35-A9E9DE1FA766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
