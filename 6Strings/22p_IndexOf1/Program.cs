@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _22p_IndexOf
+namespace _22p_IndexOf1
 {
     class Program
     {
@@ -19,9 +19,9 @@ namespace _22p_IndexOf
             //Намира индекса на първото срещане на "а"
             int firstIndex = str.IndexOf("a");
             Console.WriteLine(firstIndex);
-            
+
             //Намира индекса "а", НО започва търсенето от 8 индекс
-            int secondIndex = str.IndexOf("a",8);
+            int secondIndex = str.IndexOf("a", 8);
             Console.WriteLine(secondIndex);
 
             //Отпечатва -1, ако не намери търсения символ

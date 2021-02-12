@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C9808D91-91F1-4104-85F2-1FFCB8CE897E}</ProjectGuid>
+    <ProjectGuid>{83C36B67-1957-4559-9556-8CC932EE686B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_22p_IndexOf</RootNamespace>
-    <AssemblyName>22p_IndexOf</AssemblyName>
+    <RootNamespace>_22p_IndexOf1</RootNamespace>
+    <AssemblyName>22p_IndexOf1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
