@@ -67,6 +67,9 @@ namespace Demo1_All
             {
                 Console.WriteLine($"{item.Key} => {item.Value}");
             }
+
+            var spisakKeys = nameMoney.Keys.ToList();
+            var spisakValue = nameMoney.Values.ToList();
         }
     }
 }
