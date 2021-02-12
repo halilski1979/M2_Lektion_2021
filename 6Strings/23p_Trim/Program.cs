@@ -20,7 +20,7 @@ namespace _23p_Trim
             Console.WriteLine(p);
             string newP = p.Trim(',',' ','i','n');
             Console.WriteLine(newP);
-
+            //TrimStart(); => Отрязва интервалите в началото!
             string start = "      I love football      ";
             Console.WriteLine(start);
             string newStart = s.TrimStart();
