@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23p_ZadCenzura", "23p_ZadCe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23p_Trim", "23p_Trim\23p_Trim.csproj", "{9A097155-5D73-4141-8420-55DB9AFFC6A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeshtoSi_Moe", "NeshtoSi_Moe\NeshtoSi_Moe.csproj", "{948D14A3-BA1A-4408-96D7-E2BEA8681492}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9A097155-5D73-4141-8420-55DB9AFFC6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A097155-5D73-4141-8420-55DB9AFFC6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A097155-5D73-4141-8420-55DB9AFFC6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948D14A3-BA1A-4408-96D7-E2BEA8681492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948D14A3-BA1A-4408-96D7-E2BEA8681492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948D14A3-BA1A-4408-96D7-E2BEA8681492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948D14A3-BA1A-4408-96D7-E2BEA8681492}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,7 +11,7 @@ namespace Demo2_Sravnqvane
         static void Main(string[] args)
         {
             string str1 = "Asen";
-            string str2 = "Esan";
+            string str2 = "asen";
             // result == 0 if str1 equals str2
             // result < 0 if str1 is before str2
             // result > 0 if str1 is after str2

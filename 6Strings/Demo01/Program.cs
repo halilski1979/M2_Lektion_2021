@@ -13,9 +13,9 @@ namespace Demo01
             string str ="Hello, C#";
             Console.WriteLine(str);
             Console.WriteLine(string.Join(",", str));
+            Console.WriteLine("*********************");
             //Преобразуване на string до char array
             char[] str1 = str.ToCharArray();
-            
             Console.WriteLine(string.Join(",", str1));
             foreach (var item in str1)
             {
@@ -23,6 +23,7 @@ namespace Demo01
             }
             Console.WriteLine($"str1[0]={str1[0]}");
             Console.WriteLine(new string('=',20));
+            
             //Преобразуване на char array => string
              string str2 = new String(str1);
              Console.WriteLine($"str2 = {str2}");

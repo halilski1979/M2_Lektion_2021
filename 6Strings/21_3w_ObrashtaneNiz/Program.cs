@@ -35,9 +35,12 @@ namespace _21_3w_ObrashtaneNiz
         {
             string str = "Hello";
 
-
+            //Първи метод
             reverseString(str);
+
+            //Втори метод
             string newStr = reverseString1(str);
+            Console.WriteLine(newStr);
            
             
         }
