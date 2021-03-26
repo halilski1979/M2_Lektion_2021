@@ -16,6 +16,7 @@ namespace _27w_2_TelUkaz
             while (true)
             {
                 var linia = Console.ReadLine().Split(' ').ToList();
+
                 if (linia[0]=="end")
                 {
                     break;
@@ -31,19 +32,22 @@ namespace _27w_2_TelUkaz
                              else
                             {
                                  phoneBook[linia[1]]= linia[2];
-                            }           
+                            }
+                        
                                  
                 }
+        
                 if (linia[0] == "S")
                 {
                     
                         if (phoneBook.ContainsKey(linia[1]))
                         {
-                        Console.WriteLine($"{linia[1]}: {linia[2]}");
+                        
+                        Console.WriteLine($"{linia[1]}: {phoneBook[linia[1]]}");
                         }
                     else
                     {
-
+                        Console.WriteLine($"Contact {linia[1]} does not exist");
                     }
                 }
 
